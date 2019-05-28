@@ -13,6 +13,5 @@ class Author
     post.author = self 
     @posts << post 
   end 
-   song.artist = self 
-    @songs << song
+   
 end 
