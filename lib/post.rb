@@ -14,7 +14,7 @@ def self.all
   @@all 
 end 
 
-def author_name_name
+def author_name
       if author
       author.name 
     end 
